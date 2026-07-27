@@ -7,3 +7,35 @@ Sovereign AI Execution Framework reference implementation featuring VITT, CIM, a
 
 ## Developer Community & SAE-IPs
 We welcome contributions through the **Sae Improvement Proposal (SAE-IP)** framework. Submit your pull requests to propose core protocol enhancements or security extensions.
+
+---
+
+# Development Roadmap
+
+## Phase 2 — Reference Implementation
+
+Current Progress
+
+- ✅ Lesson 1.1 — Project Dependencies (`requirements.txt`)
+- ✅ Lesson 1.2 — FastAPI Application (`app/main.py`)
+- 🚧 Lesson 1.3 — README & Development Roadmap
+
+Upcoming Lessons
+
+- Lesson 2 — Run FastAPI Runtime
+- Lesson 3 — Swagger / OpenAPI
+- Lesson 4 — Health API
+- Lesson 5 — Version API
+- Lesson 6 — Execute API
+- Lesson 7 — VITT Identity Service
+- Lesson 8 — CIM Policy Engine
+- Lesson 9 — SRF Runtime
+- Lesson 10 — Registry Services
+- Lesson 11 — Audit Service
+- Lesson 12 — Verification Service
+- Lesson 13 — Docker Deployment
+- Lesson 14 — Conformance Test Suite
+
+Project Status
+
+Reference Implementation: In Progress
